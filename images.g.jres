@@ -1,0 +1,18 @@
+{
+    "image1": {
+        "data": "hwQOAA4AAADkzPzu/0QEAOS9s929/0QA5N07/d3STwBE3N3d39L9AED03d290vsAQPTb3b3S/QBE3N3d39L/AOTdO/3d0v0A5L2z3S3d/wDkzPzuv/tEAERERET0+0QAQEREtP/9RAAAAED03ftEAAAAQLT/TwQA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "song1": {
+        "data": "00b4000408010102001c000c960064006d019001000478002c010000640032000078000a010005300000000200011d04000800011d08000c0001200c001000012010001400012414001800012418001c0001271c0020000127",
+        "mimeType": "application/mkcd-song",
+        "displayName": "mySong",
+        "namespace": "mySongs."
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
